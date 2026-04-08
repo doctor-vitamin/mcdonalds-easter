@@ -1,0 +1,194 @@
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    right: -14%;
+    top: -40px;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+}
+.mobile_app{
+    position: relative;
+    right: -13.5%;
+}
+.mobile_app2{
+    position: relative;
+    right: 26%;
+}
+.logo{
+    width: 9%;
+    height: 100%;
+}
+.rickroll{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    right: -75%;
+    top: -112px;
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+    font-weight: 700;
+    background-color: #ffbc0d;
+    border: 1px solid #c08b00; 
+    padding: 16px;
+    border-radius: 40px;
+}
+.rickroll:hover{
+    background-color: #ffd66e;
+    border: 1px solid #c08b00; 
+}
+.pasha{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+}
+.return{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+}
+.paski{
+    position: relative;
+    left: 17.5%;
+}
+.big_hist{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 46px;
+    font-weight: 800;
+}
+.hist{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 800;
+}
+.hist2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    font-weight: 100;
+}
+.downl{
+    position: relative;
+    left: 78%;
+    top: -360px;
+}
+.phone{
+    position: relative;
+    left: 20%;
+}
+.mob_text{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 800;
+}
+.mob_text2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+    font-weight: 800;
+}
+.burger{
+    position: relative;
+    left: 58%;
+    top: -160px;
+    height: 200px;
+}
+.fries{
+    position: relative;
+    left: 20%;
+    top: 140px;
+    height: 320px;
+}
+.chicken{
+    position: relative;
+    left: 20%;
+    top: -520px;
+    height: 240px;
+}
+.buy1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 18.5%;
+    top: 258px;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 700;   
+}
+.buy2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 8%;
+    top: -37px;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 700;   
+}
+.buy3{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 23.5%;
+    top: -363px;
+    line-height: 2;
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+    font-weight: 700;   
+}
+.big{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 40%;
+    top: 170px;
+}
+.box{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 25%;
+    top: -560px;
+}
+.cheese{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 63%;
+    top: -200px;
+}
